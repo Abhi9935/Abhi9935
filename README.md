@@ -1,8 +1,8 @@
-### Hi there 👋
-![stats](https://github-readme-stats.vercel.app/api?username=Abhi9935&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+![stats](https://github-readme-stats.vercel.app/api?username=Abhi9935&show_icons=true&hide_title=true&count_private=true&theme=light)
 
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi9935&hide=javascript,html&theme=radical&layout=compact)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi9935&hide=javascript,html&theme=light&layout=compact)
 
 
 <!--
