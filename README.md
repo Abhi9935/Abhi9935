@@ -1,5 +1,4 @@
-# 👨‍💻 Abhinav Kushwaha
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&width="100%"&height=200&section=header&text=Abhinav%20Kushwaha&fontSize=50&fontColor=Black&animation=fadeIn)
 ## .NET Developer
 
 > With over 7.8 years of experience as a .NET Developer, I specialize in delivering robust web applications using .NET technologies for healthcare and finance sectors. My expertise lies in developing and supporting applications with a strong focus on stability and maintainability, utilizing tools like Azure and SQL Server to enhance performance.
